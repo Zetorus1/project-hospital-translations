@@ -6,12 +6,13 @@
 
         <Contributors>
             <Name>Oxymoron Games</Name>
+            <Name>Zetorus1</Name>
         </Contributors>
         
     	<LocalizedStrings>
 
             <!-- Employee job titles -->
-            <GameDBLocalizedString>      <LocID>OCCUPATION_DOCTOR</LocID>               <Text>Doctor</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_DOCTOR</LocID>               <Text>Doktor</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OCCUPATION_NURSE</LocID>                <Text>Sestra</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OCCUPATION_LAB_SPECIALIST</LocID>       <Text>Laboratorní specialista</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OCCUPATION_JANITOR</LocID>              <Text>Uklízeč</Text>  </GameDBLocalizedString>
@@ -68,7 +69,7 @@
             <GameDBLocalizedString>      <LocID>PERK_COMFORTING</LocID>                 <Text>Pečlivost</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_COMFORTING_DESCRIPTION</LocID>     <Text>Při vyšetřeních nezvyšuje pacientům míru nepohodlí</Text></GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_DIAGNOSTIC_GENIUS</LocID>          <Text>Diagnostické eso</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_DIAGNOSTIC_GENIUS_DESCRIPTION</LocID><Text>Přirozený telent pro diagnostiku!</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_DIAGNOSTIC_GENIUS_DESCRIPTION</LocID><Text>Přirozený talent pro diagnostiku!</Text></GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_EARLY_BIRD</LocID>                 <Text>Ranní ptáče</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_EARLY_BIRD_DESCRIPTION</LocID>     <Text>Během dne pracuje velice efektivně.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_NIGHT_OWL</LocID>                  <Text>Sova</Text>  </GameDBLocalizedString>
@@ -81,7 +82,7 @@
             <GameDBLocalizedString>      <LocID>PERK_AGGRESSIVE_DESCRIPTION</LocID>     <Text>Přerušuje procedury.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_INSPIRATOR</LocID>              	<Text>Inspirátor</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_INSPIRATOR_DESCRIPTION</LocID>   	<Text>Zlepšuje náladu všem kolem.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_SHAMELESS</LocID>              	<Text>Nezná stud</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_SHAMELESS</LocID>              	<Text>Nestyda</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_SHAMELESS_DESCRIPTION</LocID>   	<Text>Prozradí i delikátní symptomy..</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_MEDICAL_EDUCATION</LocID>          <Text>Medicínské vzdělání</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_MEDICAL_EDUCATION_DESCRIPTION</LocID><Text>Sám může přijít na některé symptomy.</Text>  </GameDBLocalizedString>
@@ -89,9 +90,9 @@
             <GameDBLocalizedString>      <LocID>PERK_FOREIGNER_DESCRIPTION</LocID>  	<Text>Nemluví stejným jazykem.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_DEMOTIVATOR</LocID>                <Text>Otravný</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_DEMOTIVATOR_DESCRIPTION</LocID>    <Text>Kazí náladu, kde chodí.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_SLOW</LocID>                		<Text>Pomalý/á</Text>  </GameDBLocalizedString> <!-- TODO delete? -->
+            <GameDBLocalizedString>      <LocID>PERK_SLOW</LocID>                		<Text>Šnek</Text>  </GameDBLocalizedString> <!-- TODO delete? -->
             <GameDBLocalizedString>      <LocID>PERK_SLOW_DESCRIPTION</LocID>     		<Text>Plouží se.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_SHY</LocID>            			<Text>Stydlivost</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_SHY</LocID>            			<Text>Stydlivý/á</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_SHY_DESCRIPTION</LocID>			<Text>Neprozradí některé symptomy.</Text>  </GameDBLocalizedString>
 
             <!-- Need names -->
@@ -163,7 +164,7 @@
             
             <GameDBLocalizedString>      <LocID>SYMPTOM_MOBILE</LocID>                  <Text>Může chodit</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYMPTOM_IMOBILE</LocID>                 <Text>Nemůže chodit</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYMPTOM_INTUBATED</LocID>               <Text>Vyžaduje intubaci</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYMPTOM_INTUBATED</LocID>               <Text>Intubován/a</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>SENT_HOME</LocID>                       <Text>Jde domů</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>HOSPITALIZED</LocID>                    <Text>Hospitalizovaný/á</Text>  </GameDBLocalizedString>
@@ -259,7 +260,7 @@
             <GameDBLocalizedString>      <LocID>EMPL_ROLE_EXM_TRT</LocID>                           <Text>Diagnostika a léčba</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EMPL_ROLE_SURGERY</LocID>                           <Text>Vedení operací</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EMPL_ROLE_SURGERY_ASSIST</LocID>                    <Text>Asistence u operací</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>EMPL_ROLE_SURGERY_ANESTHESIOLOGY</LocID>            <Text>Anestesiologie na operacích</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EMPL_ROLE_SURGERY_ANESTHESIOLOGY</LocID>            <Text>Anesteziologie při operacích</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EMPL_ROLE_PATIENT_CARE</LocID>                      <Text>Péče o pacienty</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EMPL_ROLE_PATIENT_TRANSFERS</LocID>                 <Text>Převozy pacientů</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EMPL_ROLE_SURGERY_NURSE</LocID>                     <Text>Sestra u operací</Text>  </GameDBLocalizedString>
@@ -268,11 +269,11 @@
             
             <!-- Doctor states -->
             <GameDBLocalizedString>      <LocID>DOCTOR_STATE_Idle</LocID>                           <Text>Bez aktivity</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DOCTOR_STATE_FinishedProcedure</LocID>              <Text>Bez aktivity</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOCTOR_STATE_FinishedProcedure</LocID>              <Text>Dokončil/a úkon</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DOCTOR_STATE_GoingToWorkPlace</LocID>               <Text>Jde na pracoviště</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DOCTOR_STATE_FulfilingNeeds</LocID>                 <Text>Plní potřeby</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DOCTOR_STATE_FilingReports</LocID>                  <Text>Píše zprávy</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DOCTOR_STATE_FillingFreeTime</LocID>                <Text>Volný čas</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOCTOR_STATE_FillingFreeTime</LocID>                <Text>Zabíjí čas</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DOCTOR_STATE_OverridenByProcedureScript</LocID>     <Text>Provádí proceduru</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DOCTOR_STATE_OverridenReservedForProcedure</LocID>  <Text>Zarezervovaný/á pro proceduru</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DOCTOR_STATE_DoctorsRounds</LocID>                  <Text>Provádí vizitu</Text>  </GameDBLocalizedString>
@@ -283,7 +284,7 @@
 
             <!-- Nurse states -->
             <GameDBLocalizedString>      <LocID>NURSE_STATE_Idle</LocID>                            <Text>Bez aktivity</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NURSE_STATE_FinishedProcedure</LocID>               <Text>Bez aktivity</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NURSE_STATE_FinishedProcedure</LocID>               <Text>Dokončil/a úkon</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NURSE_STATE_FinishedProcedureWaitWithPatient</LocID><Text>Čeká u pacienta</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NURSE_STATE_GoingToWorkplace</LocID>                <Text>Jde na pracoviště</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NURSE_STATE_DeliveringFood</LocID>                  <Text>Roznáší jídlo</Text>  </GameDBLocalizedString>
@@ -306,8 +307,8 @@
             <GameDBLocalizedString>      <LocID>JANITOR_STATE_FiredAtHome</LocID>                   <Text>Vyhozený/á</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>JANITOR_STATE_GoingHome</LocID>                     <Text>Jde domů</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>JANITOR_STATE_GoingToWorkplace</LocID>              <Text>Jde na pracoviště</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>JANITOR_STATE_Walking</LocID>                       <Text>Uklízí</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>JANITOR_STATE_WalkingToCart</LocID>                 <Text>Uklízí</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>JANITOR_STATE_Walking</LocID>                       <Text>Jde</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>JANITOR_STATE_WalkingToCart</LocID>                 <Text>Vrací se k vozíku</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>JANITOR_STATE_WalkingToCartToNextRoom</LocID>       <Text>Uklízí</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>JANITOR_STATE_WalkingToNextRoom</LocID>             <Text>Uklízí</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>JANITOR_STATE_FulfillingNeeds</LocID>               <Text>Plní potřeby</Text>  </GameDBLocalizedString>
@@ -319,7 +320,7 @@
             <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_Idle</LocID>                     <Text>Bez aktivity</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_GoingToWorkplace</LocID>         <Text>Jde na pracoviště</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_FulfillingNeeds</LocID>          <Text>Plní potřeby</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_FillingFreeTime</LocID>          <Text>Volný čas</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_FillingFreeTime</LocID>          <Text>Zabíjí čas</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_OverridenByProcedureScript</LocID><Text>Provádí proceduru</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_GoingHome</LocID>                <Text>Jde domů</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_AtHome</LocID>                   <Text>Doma</Text>  </GameDBLocalizedString>
@@ -328,12 +329,12 @@
             <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_OverridenReservedForProcedure</LocID><Text>Zarezervovaný/á pro proceduru</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_GoingForSample</LocID>           <Text>Nosí vzorky</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_GoingForSampleFromHospitalizedPatient</LocID><Text>Nosí vzorky</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_TakingSample</LocID>             <Text>Nosí vzorky</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_ProcessingSampleFromPatient</LocID><Text>Nosí vzorky</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_GoingToStoreSampleFromPatient</LocID><Text>Nosí vzorky</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_StoringSampleFromPatient</LocID> <Text>Nosí vzorky</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_SampleFromPatientStored</LocID>  <Text>Nosí vzorky</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_ReturningWithSample</LocID>      <Text>Nosí vzorky</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_TakingSample</LocID>             <Text>Odebírá vzorky</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_ProcessingSampleFromPatient</LocID><Text>Zpracovává vzorky</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_GoingToStoreSampleFromPatient</LocID><Text>Uskladňuje vzorky</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_StoringSampleFromPatient</LocID> <Text>Uskladňuje vzorky</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_SampleFromPatientStored</LocID>  <Text>Vzorky uskladňeny</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_ReturningWithSample</LocID>      <Text>Vrací se se vzorky</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_StartWritingNotes</LocID>        <Text>Zpracovává výsledky</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_StopWritingNotes</LocID>         <Text>Zpracovává výsledky</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_GoingToEquipment</LocID>         <Text>Provádí testy</Text>  </GameDBLocalizedString>
